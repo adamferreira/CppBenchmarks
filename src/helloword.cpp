@@ -69,7 +69,7 @@ void BM_HelloWord_4(benchmark::State& state) {
 // Register the function as a benchmark
 BENCHMARK(BM_HelloWord_1);
 BENCHMARK(BM_HelloWord_2);
-BENCHMARK(BM_HelloWord_4);
 BENCHMARK(BM_HelloWord_3);
+BENCHMARK(BM_HelloWord_4);
 // Run the benchmark
 BENCHMARK_MAIN();
