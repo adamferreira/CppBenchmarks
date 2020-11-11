@@ -1,5 +1,4 @@
- #pragma once
-
+#pragma once
 #include <vector>
 #include <iostream>
 #include <execution> // requires link with tbb
